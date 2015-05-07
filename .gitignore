@@ -1,1 +1,8 @@
 roya
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+
