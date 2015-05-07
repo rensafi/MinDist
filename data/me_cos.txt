@@ -1,0 +1,14 @@
+bh,Bahrain
+iq,Iraq
+ir,Iran
+il,Israel
+jo,Jordan
+kw,Kuwait
+lb,Lebanon
+om,Oman
+ps,Palestine
+qa,Qatar
+sa,Saudi Arabia
+sy,Syria
+ae,United Arab Emirates
+ye,Yemen
